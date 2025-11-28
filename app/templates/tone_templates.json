@@ -1,0 +1,79 @@
+{
+  "surge": [
+    "NO WAY BROOOO 💀😭🔥 WHAT EVEN WAS THAT",
+    "HOLY— that was WILD no because WHAT just happened?? 😭🔥",
+    "Bro I’m screaming this is PEAK chaos 💀💀🔥",
+    "The END OF THE WORLD AS WE KNOW IT 🌎💥😱🤯",
+    "BROOOO THAT WAS INSANE 💀🔥",
+    "WHAT DID I JUST WITNESS 😭🔥🔥",
+    "BRO THIS IS ACTUALLY WILD 💀💀",
+    "I’M LOSING IT OMG 💀🤣🔥",
+    "THAT WAS PURE CHAOS BROOO 😭💥",
+    "NO BECAUSE WHY IS THIS SO DRAMATIC 💀🔥"
+  ],
+
+  "neutral": [
+    "I hear you. What happened exactly?",
+    "Alright, tell me more about it.",
+    "Got it. How would you describe the situation?",
+    "Okay. What’s the next step you're considering?",
+    "Let’s break this down so it feels less overwhelming.",
+    "Thanks for sharing that. What do you want to do now?",
+    "I understand. Want to talk it through?",
+    "I'm listening. Tell me what’s going on.",
+    "That makes sense. What part bothered you the most?",
+    "Alright. Let’s look at this calmly."
+  ],
+
+  "light_surge": [
+    "Ughh that sounds mildly annoying 😅",
+    "Bruh that would irritate anyone a little.",
+    "Okay yeah, that’s kinda annoying ngl.",
+    "That’s low-key frustrating, I get it.",
+    "Broo I would be side-eyeing that too 😐",
+    "Yeahh that’s one of those tiny things that just poke your mood.",
+    "Not a huge deal but definitely annoying enough.",
+    "Yup, that’d throw anyone off for a bit 😭",
+    "Small thing but still annoying, fr.",
+    "Okay valid, that’s a mini-frustration moment."
+  ],
+
+  "mid_surge": [
+    "Nahh bro that’s genuinely irritating 😭 what even was that?",
+    "Bro life really woke up and chose annoyance for you today 💀",
+    "That’s such a mood— I'd be frustrated too, fr.",
+    "Okay noo that would get on ANYONE’S nerves 💀🔥",
+    "Bro I swear some days just stack irritation levels.",
+    "Yeah that’s peak mid-level chaos right there 😭",
+    "Bro what kinda goofy situation was that 💀",
+    "I feel that. That’s some unnecessary level of drama.",
+    "Man that would drain my patience instantly 😭",
+    "Brooo that’s the type of thing that derails your whole vibe."
+  ],
+
+  "synth": [
+    "I'm really glad you told me. That must feel heavy to hold alone.",
+    "That sounds tough. I’m here with you through it.",
+    "I can hear the weight in what you're saying. You're not alone in this.",
+    "It’s okay to feel this way. Let’s slow down and unpack it gently.",
+    "That must have been a lot to deal with. Talk to me about what hurt the most.",
+    "I’m listening. You’re allowed to feel what you’re feeling.",
+    "You're doing your best, even if it doesn't feel like it right now.",
+    "It’s completely valid to feel overwhelmed sometimes. I'm right here.",
+    "Take a breath for a moment— you're safe talking about this.",
+    "I'm here. Let’s walk through this together."
+  ],
+
+  "crisis": [
+    "Thank you for telling me. You’re not alone right now. I want to help you stay safe.",
+    "I’m here with you. Your feelings are real, and you deserve support.",
+    "It sounds like you’re going through something very hard. Let’s take this one moment at a time.",
+    "Your safety matters. Can you tell me where you are right now?",
+    "I want you to reach out to someone you trust nearby. You don’t have to handle this alone.",
+    "I’m here to support you, but I can’t replace real help. Is there a trusted adult you can talk to?",
+    "Take a slow breath. You’re here with me. You deserve care and safety.",
+    "I hear how difficult this feels. Let’s focus on what can help you stay safe right now.",
+    "I care about your safety. Please consider talking to a trusted person who can be with you.",
+    "You're important. We can talk through this, but I want you to connect to someone who can help directly."
+  ]
+}
